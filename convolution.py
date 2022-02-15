@@ -1,3 +1,4 @@
+# simple convolution
 import numpy as np
 
 def my_conv2d(input, weights):
